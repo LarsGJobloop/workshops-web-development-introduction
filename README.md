@@ -30,7 +30,7 @@ You will use the following tools during this workshop:
 - **Collaboration**: [GitHub] - Collaborate with others on your web development projects.
 - **Integrated Development Environment (IDE)**: [Stackblitz] / [VS Code] - Write and edit your code efficiently.
 - **Hosting**: [Netlify] / [Vercel] - Host your website and make it accessible online.
-- **Design**: [Figma] - Create design sketches and user interfaces for your projects.
+- **Design**: [Figma] - Crafting design sketches and user interfaces for your projects.
 
 ## Links
 
