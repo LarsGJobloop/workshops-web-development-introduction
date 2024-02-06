@@ -1,6 +1,6 @@
 # Web Development<br>_- Introduction Workshop_
 
-Welcome to this informal web development session, where you'll explore the fundamentals of web development over a few hours. Whether you're a beginner or simply curious, this workshop provides an opportunity to dip your toes into web development.
+This is an introductory workshop for web development, designed to provide you with a foundational understanding of the key concepts and tools used in building web applications. Whether you're a newcomer to the field or simply curious about web development, this session offers an opportunity to explore the fundamentals in just a few hours.
 
 ## Learning Objectives
 
