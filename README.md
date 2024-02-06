@@ -6,13 +6,21 @@ This is an introductory workshop for web development, designed to provide you wi
 
 By the end of this workshop, you will:
 
-- **Understand the composition of Web Interface**: Gain insights into the semantic, visual, and functional aspects of Graphical User Interfaces using [HTML], [CSS], and [JavaScript]. You'll understand how these technologies work together to create user-friendly web applications.
+- **Understand the composition of Web Interface**:
 
-- **Version Control and Collaboration**: Utilize [Git] for version control to track changes in your code. You'll also learn how to collaborate with others on your web development projects using [GitHub].
+  Gain insights into the semantic, visual, and functional aspects of Graphical User Interfaces using [HTML], [CSS], and [JavaScript]. You'll understand how these technologies work together to create user-friendly web applications.
 
-- **Website Deployment**: Publish your website to a hosting service like [Netlify] or [Vercel], making it accessible to users worldwide. Observe how updates to your code propagate from you IDE to GitHub and into the deployed site.
+- **Know how to Version Control and Share your code**:
 
-- **Design User Interfaces**: Kickstart your creativity by brainstorming ideas and creating design sketches using [Figma]. Initiate the process of designing Graphical User Interfaces for your web applications.
+  Utilize [Git] for version control to track changes in your code. You'll also learn how to collaborate with others on your web development projects using [GitHub].
+
+- **Deploy a Web Site**:
+
+  Publish your website to a hosting service like [Netlify] or [Vercel], making it accessible to users worldwide. Observe how updates to your code propagate from you IDE to GitHub and into the deployed site.
+
+- **Initiate User Interface Design**:
+
+  Kickstart your creativity by brainstorming ideas and creating design sketches using [Figma]. Initiate the process of designing Graphical User Interfaces for your web applications.
 
 ## Tools
 
