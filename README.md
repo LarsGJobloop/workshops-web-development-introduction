@@ -46,6 +46,8 @@ Here is a colection of the most important links:
   - [Figma]
   - [Netlify] / [Vercel]
 
+Feel free to explore these resources as you embark on your journey into web development. Enjoy the workshop!
+
 [HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
