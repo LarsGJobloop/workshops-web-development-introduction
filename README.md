@@ -26,11 +26,25 @@ By the end of this workshop, you will:
 
 You will use the following tools during this workshop:
 
-- **Version Control**: [Git] - Keep track of changes in your code.
-- **Collaboration**: [GitHub] - Collaborate with others on your web development projects.
-- **Integrated Development Environment (IDE)**: [Stackblitz] / [VS Code] - Write and edit your code efficiently.
-- **Hosting**: [Netlify] / [Vercel] - Host your website and make it accessible online.
-- **Design**: [Figma] - Crafting design sketches and user interfaces for your projects.
+- **Version Control**: [Git]
+
+  Keep track of changes in your code.
+
+- **Collaboration**: [GitHub]
+
+  Collaborate with others on your web development projects.
+
+- **Integrated Development Environment (IDE)**: [Stackblitz] / [VS Code]
+
+  Write and edit your code efficiently.
+
+- **Hosting**: [Netlify] / [Vercel]
+
+  Host your website and make it accessible online.
+
+- **Design**: [Figma]
+
+  Crafting design sketches and user interfaces for your projects.
 
 ## Links
 
