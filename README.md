@@ -6,9 +6,21 @@ This is an introductory workshop for web development, designed to provide you wi
 
 By the end of this workshop, you will:
 
-- **Understand the composition of Web Interface**:
+- **Learn HTML Basics**:
 
-  Gain insights into the semantic, visual, and functional aspects of Graphical User Interfaces using [HTML], [CSS], and [JavaScript]. You'll understand how these technologies work together to create user-friendly web applications.
+  Gain a basic understanding of [HTML] for structuring web content.
+
+- **Explore CSS Essentials**:
+
+  Get an introduction to [CSS] for styling web elements.
+
+- **Introduce JavaScript**:
+
+  Know the role of [JavaScript] for providing functionality and link in a simple "Hello World" script.
+
+- **Understand Web Interface Composition**:
+
+  How the semantic (HTML), visual (CSS) and functional (JavaScript) is used for describing User Interfaces.
 
 - **Know how to Version Control and Share your code**:
 
